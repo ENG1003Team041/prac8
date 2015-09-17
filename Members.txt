@@ -4,3 +4,11 @@ MEMBER 1 Gary
 MEMBER 2 Tham
 MEMBER 3 Lim
 MEMBER 4 Leong
+
+YiAn
+ 
+year 1 sem 2
+ 
+Role in project: member
+ 
+Preferred branch of engineering: chemical
