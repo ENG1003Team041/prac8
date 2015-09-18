@@ -4,3 +4,11 @@ MEMBER 1 Gary
 MEMBER 2 Tham
 MEMBER 3 Lim
 MEMBER 4 Leong
+
+THAM SHEAU WEN
+ 
+i drive avanza to school
+ 
+Role in project: programmer
+ 
+Preferred branch of engineering: civil
