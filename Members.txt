@@ -4,3 +4,11 @@ MEMBER 1 Gary
 MEMBER 2 Tham
 MEMBER 3 Lim
 MEMBER 4 Leong
+
+Leong Chee Kin
+
+I graduated from MUFY programme last year.
+
+Role in project : Assignment Uploader
+
+Preferred branch of Engineering : Chemical
